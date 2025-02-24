@@ -1,9 +1,19 @@
 ## Hi there 👋
 
+😊 I am Atul Ajani 
+📑 I am currently working on data science projects 
+🌱 I am currently learning SQL
+👐 I am open to work
+
+🎈 Connect with me at: 
+   📧 atulajani13@gmail.com
+   📲 linkedin.com/in/atul-ajani-5619b0259/
+
+
 <!--
 **ajaniatul/ajaniatul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
