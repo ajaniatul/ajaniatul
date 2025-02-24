@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-😊 I am Atul Ajani 
-📑 I am currently working on data science projects 
-🌱 I am currently learning SQL
+- 😊 I am Atul Ajani 
+- 📑 I am currently working on data science projects 
+- 🌱 I am currently learning SQL
 👐 I am open to work
 
 🎈 Connect with me at: 
